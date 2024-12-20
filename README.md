@@ -1,4 +1,5 @@
 # Análisis y Predicciones Climáticas
+# Revisar docs!
 
 Este proyecto analiza las anomalías de temperatura global utilizando datos históricos de la NASA y aplica modelos de machine learning para predecir tendencias futuras. Incluye un dashboard interactivo para visualizar los insights y predicciones.
 
